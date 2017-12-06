@@ -1,3 +1,3 @@
 # SoftWare
 
-some ubuntu software and tools
+Some ubuntu software and tools
